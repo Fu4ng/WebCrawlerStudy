@@ -35,6 +35,7 @@ import urllib.parse
 
 
 # #代理服务器的设置
+# Error 10061
 # def use_proxy(proxy_addr,url):
 #     import urllib.request
 #     proxy = urllib.request.ProxyHandler({'http':proxy_addr})
